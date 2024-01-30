@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danzorilla
+- 👋 Hi, I’m @danielonit
 - 👀 I’m interested in programming, reading, and traveling
 - 🌱 I’m currently a student in high school
 - 💞️ I’m looking to collaborate on a major and important project
